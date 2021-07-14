@@ -5,8 +5,8 @@
 	--highlight-color: #f3f3ec;
 	--bright-color-1: #faece7;
 	--bright-color-2: #f6dbd2;
-	--bright-color-3: #f1cbbd;
-	--bright-color-4: #edbaa8;
+	--bright-color-3: #edbaa8;
+	--bright-color-4: #e08869;
 }
 body {
 	background: var(--darkest-color);
