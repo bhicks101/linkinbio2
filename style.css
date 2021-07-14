@@ -4,8 +4,9 @@
 	--lightest-color: #addbc3;
 	--highlight-color: #f3f3ec;
 	--bright-color-1: #faece7;
-	--bright-color-2: #f19088;
-	--bright-color-3: #ffd1c2;
+	--bright-color-2: #f6dbd2;
+	--bright-color-3: #f1cbbd;
+	--bright-color-4: #edbaa8;
 }
 body {
 	background: var(--darkest-color);
@@ -65,12 +66,15 @@ a:hover {
 	width: 50px;
 	margin: 3px;
 }
-.dark {
+.extralight {
 	background: var(--bright-color-1);
 }
-.medium {
+.light {
 	background: var(--bright-color-2);
 }
-.light {
+.medium {
 	background: var(--bright-color-3);
+	}
+.dark {
+	background: var(--bright-color-4);
 }
